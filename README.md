@@ -10,5 +10,3 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/jtimdennis/"><img src="https://img.shields.io/badge/LinkedIn-timdennis-blueviolet.svg?style=social" alt="LinkedIn"></a>
 
 - 😄 Pronouns: He/Him 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
