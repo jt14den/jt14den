@@ -4,7 +4,6 @@
 - 🧑‍🏫 I teach with [The Carpentries](https://carpentries.org/) and help develop open lessons, including recent ones on [computational thinking](https://librarycarpentry.org/lc-computational-thinking/) and open science for librarians
 - 🌐 I collaborate across the [UC OSPO Network](https://ucop.edu/open-source-program-office/) and help guide education efforts and curriculum design
 - 👨‍👩‍👦‍👦 I’m lucky to work with amazing student researchers in the [UCLA DataSquad](https://ucla-datasquad.github.io/), who’ve contributed to projects from 3D data visualization to civic data investigations
-- 🎸 Outside work, I play guitar, explore local trails, and tinker with Raspberry Pis and homebrew tech setups
 - 📨 Reach me at: [tdennis@library.ucla.edu](mailto:tdennis@library.ucla.edu) or check out some of my current work below!
 
 <!-- Optional badge section 
